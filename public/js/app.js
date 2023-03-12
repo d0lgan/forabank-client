@@ -23071,6 +23071,26 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/components/Slider3Tabs.vue?vue&type=script&lang=js":
+/*!*****************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/components/Slider3Tabs.vue?vue&type=script&lang=js ***!
+  \*****************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
+  name: "Slider3Tabs",
+  mounted: function mounted() {
+    console.log('Component mounted.');
+  }
+});
+
+/***/ }),
+
 /***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/components/ExampleComponent.vue?vue&type=template&id=299e239e":
 /*!**************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/components/ExampleComponent.vue?vue&type=template&id=299e239e ***!
@@ -23091,6 +23111,30 @@ var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVN
 var _hoisted_3 = [_hoisted_2];
 function render(_ctx, _cache, $props, $setup, $data, $options) {
   return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("div", _hoisted_1, _hoisted_3);
+}
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/components/Slider3Tabs.vue?vue&type=template&id=4646b4f5":
+/*!*********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/components/Slider3Tabs.vue?vue&type=template&id=4646b4f5 ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* binding */ render)
+/* harmony export */ });
+/* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
+
+var _hoisted_1 = {
+  "class": "carousel"
+};
+var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"header-block header-block_section\"><div class=\"header-block__container\"><div class=\"header-block__body\"><div class=\"header-block__title\">Пример заголовка</div></div></div></div><div class=\"card-slider card-slider_block card-slider--3\"><div class=\"card-slider__container\"><div class=\"card-slider__body\"><div class=\"card-slider__list swiper\"><button type=\"button\" class=\"card-slider__button card-slider__button-prev btn-slider-arrow swiper-button-prev\"><svg><use xlink:href=\"img/icons/icons.svg#svg-arrow-left\"></use></svg></button><div class=\"card-slider__wrapper swiper-wrapper\"><div class=\"card-slider__item swiper-slide\"><!-- card-cross-product --><div class=\"card-cross-product card_interactive\"><div class=\"card-cross-product__img\"><picture><source data-srcset=\"img/cards/cross-product/1.webp, img/cards/cross-product/1@2x.webp 2x\" srcset=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=\" type=\"image/webp\"><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=\" data-src=\"img/cards/cross-product/1.png\" data-srcset=\"img/cards/cross-product/1@2x.png 2x\" alt=\"\"></picture></div><div class=\"card-cross-product__content\"><div class=\"card-cross-product__title\">Платёжные сервисы</div><div class=\"card-cross-product__text\">Оплачивайте покупки смартфоном <br> и другими устройствами</div></div><a href=\"#\" class=\"card-cross-product__button btn-secondary-s\">Подробнее о продукте</a></div><!-- card-cross-product end --></div><div class=\"card-slider__item swiper-slide\"><!-- card-cross-product --><div class=\"card-cross-product card_interactive\"><div class=\"card-cross-product__img\"><picture><source data-srcset=\"img/cards/cross-product/2.webp, img/cards/cross-product/2@2x.webp 2x\" srcset=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=\" type=\"image/webp\"><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=\" data-src=\"img/cards/cross-product/2.png\" data-srcset=\"img/cards/cross-product/2@2x.png 2x\" alt=\"\"></picture></div><div class=\"card-cross-product__content\"><div class=\"card-cross-product__title\">Мобильный банк</div><div class=\"card-cross-product__text\">Современное и удобное средство <br> управления вашими финансами</div></div><a href=\"#\" class=\"card-cross-product__button btn-secondary-s\">Подробнее о продукте</a></div><!-- card-cross-product end --></div><div class=\"card-slider__item swiper-slide\"><!-- card-cross-product --><div class=\"card-cross-product card_interactive\"><div class=\"card-cross-product__img\"><picture><source data-srcset=\"img/cards/cross-product/3.webp, img/cards/cross-product/3@2x.webp 2x\" srcset=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=\" type=\"image/webp\"><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=\" data-src=\"img/cards/cross-product/3.png\" data-srcset=\"img/cards/cross-product/3@2x.png 2x\" alt=\"\"></picture></div><div class=\"card-cross-product__content\"><div class=\"card-cross-product__title\">Недвижимость</div><div class=\"card-cross-product__text\">Предложения по недвижимости <br>и залоговому имуществу</div></div><a href=\"#\" class=\"card-cross-product__button btn-secondary-s\">Подробнее о продукте</a></div><!-- card-cross-product end --></div><div class=\"card-slider__item swiper-slide\"><!-- card-cross-product --><div class=\"card-cross-product card_interactive\"><div class=\"card-cross-product__img\"><picture><source data-srcset=\"img/cards/cross-product/1.webp, img/cards/cross-product/1@2x.webp 2x\" srcset=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=\" type=\"image/webp\"><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=\" data-src=\"img/cards/cross-product/1.png\" data-srcset=\"img/cards/cross-product/1@2x.png 2x\" alt=\"\"></picture></div><div class=\"card-cross-product__content\"><div class=\"card-cross-product__title\">Платёжные сервисы</div><div class=\"card-cross-product__text\">Оплачивайте покупки смартфоном <br> и другими устройствами</div></div><a href=\"#\" class=\"card-cross-product__button btn-secondary-s\">Подробнее о продукте</a></div><!-- card-cross-product end --></div><div class=\"card-slider__item swiper-slide\"><!-- card-cross-product --><div class=\"card-cross-product card_interactive\"><div class=\"card-cross-product__img\"><picture><source data-srcset=\"img/cards/cross-product/1.webp, img/cards/cross-product/1@2x.webp 2x\" srcset=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=\" type=\"image/webp\"><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=\" data-src=\"img/cards/cross-product/1.png\" data-srcset=\"img/cards/cross-product/1@2x.png 2x\" alt=\"\"></picture></div><div class=\"card-cross-product__content\"><div class=\"card-cross-product__title\">Платёжные сервисы</div><div class=\"card-cross-product__text\">Оплачивайте покупки смартфоном <br> и другими устройствами</div></div><a href=\"#\" class=\"card-cross-product__button btn-secondary-s\">Подробнее о продукте</a></div><!-- card-cross-product end --></div></div><button type=\"button\" class=\"card-slider__button card-slider__button-next btn-slider-arrow swiper-button-next\"><svg><use xlink:href=\"img/icons/icons.svg#svg-arrow-right\"></use></svg></button></div><div class=\"card-slider__pagination swiper-pagination swiper-pagination_gray\"></div></div></div></div>", 2);
+var _hoisted_4 = [_hoisted_2];
+function render(_ctx, _cache, $props, $setup, $data, $options) {
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("section", _hoisted_1, _hoisted_4);
 }
 
 /***/ }),
@@ -28615,6 +28659,34 @@ if (false) {}
 
 /***/ }),
 
+/***/ "./resources/js/components/Slider3Tabs.vue":
+/*!*************************************************!*\
+  !*** ./resources/js/components/Slider3Tabs.vue ***!
+  \*************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _Slider3Tabs_vue_vue_type_template_id_4646b4f5__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Slider3Tabs.vue?vue&type=template&id=4646b4f5 */ "./resources/js/components/Slider3Tabs.vue?vue&type=template&id=4646b4f5");
+/* harmony import */ var _Slider3Tabs_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Slider3Tabs.vue?vue&type=script&lang=js */ "./resources/js/components/Slider3Tabs.vue?vue&type=script&lang=js");
+/* harmony import */ var C_OSPanel_domains_forabank_client_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+
+
+
+
+;
+const __exports__ = /*#__PURE__*/(0,C_OSPanel_domains_forabank_client_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Slider3Tabs_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Slider3Tabs_vue_vue_type_template_id_4646b4f5__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/components/Slider3Tabs.vue"]])
+/* hot reload */
+if (false) {}
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__exports__);
+
+/***/ }),
+
 /***/ "./resources/js/components/ExampleComponent.vue?vue&type=script&lang=js":
 /*!******************************************************************************!*\
   !*** ./resources/js/components/ExampleComponent.vue?vue&type=script&lang=js ***!
@@ -28631,6 +28703,22 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./resources/js/components/Slider3Tabs.vue?vue&type=script&lang=js":
+/*!*************************************************************************!*\
+  !*** ./resources/js/components/Slider3Tabs.vue?vue&type=script&lang=js ***!
+  \*************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Slider3Tabs_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__["default"])
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Slider3Tabs_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./Slider3Tabs.vue?vue&type=script&lang=js */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/components/Slider3Tabs.vue?vue&type=script&lang=js");
+ 
+
+/***/ }),
+
 /***/ "./resources/js/components/ExampleComponent.vue?vue&type=template&id=299e239e":
 /*!************************************************************************************!*\
   !*** ./resources/js/components/ExampleComponent.vue?vue&type=template&id=299e239e ***!
@@ -28643,6 +28731,22 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "render": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_ExampleComponent_vue_vue_type_template_id_299e239e__WEBPACK_IMPORTED_MODULE_0__.render)
 /* harmony export */ });
 /* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_ExampleComponent_vue_vue_type_template_id_299e239e__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./ExampleComponent.vue?vue&type=template&id=299e239e */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/components/ExampleComponent.vue?vue&type=template&id=299e239e");
+
+
+/***/ }),
+
+/***/ "./resources/js/components/Slider3Tabs.vue?vue&type=template&id=4646b4f5":
+/*!*******************************************************************************!*\
+  !*** ./resources/js/components/Slider3Tabs.vue?vue&type=template&id=4646b4f5 ***!
+  \*******************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Slider3Tabs_vue_vue_type_template_id_4646b4f5__WEBPACK_IMPORTED_MODULE_0__.render)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Slider3Tabs_vue_vue_type_template_id_4646b4f5__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./Slider3Tabs.vue?vue&type=template&id=4646b4f5 */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/components/Slider3Tabs.vue?vue&type=template&id=4646b4f5");
 
 
 /***/ }),
@@ -28973,6 +29077,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _bootstrap__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./bootstrap */ "./resources/js/bootstrap.js");
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
 /* harmony import */ var _components_ExampleComponent_vue__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./components/ExampleComponent.vue */ "./resources/js/components/ExampleComponent.vue");
+/* harmony import */ var _components_Slider3Tabs_vue__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./components/Slider3Tabs.vue */ "./resources/js/components/Slider3Tabs.vue");
 /**
  * First we will load all of this project's JavaScript dependencies which
  * includes Vue and other libraries. It is a great starting point when
@@ -28990,7 +29095,9 @@ __webpack_require__.r(__webpack_exports__);
 
 var app = (0,vue__WEBPACK_IMPORTED_MODULE_1__.createApp)({});
 
+
 app.component('example-component', _components_ExampleComponent_vue__WEBPACK_IMPORTED_MODULE_2__["default"]);
+app.component('slider-3-tabs', _components_Slider3Tabs_vue__WEBPACK_IMPORTED_MODULE_3__["default"]);
 
 /**
  * The following block of code may be used to automatically register your

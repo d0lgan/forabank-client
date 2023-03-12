@@ -16,7 +16,9 @@ import { createApp } from 'vue';
 const app = createApp({});
 
 import ExampleComponent from './components/ExampleComponent.vue';
+import Slider3Tabs from './components/Slider3Tabs.vue';
 app.component('example-component', ExampleComponent);
+app.component('slider-3-tabs', Slider3Tabs);
 
 /**
  * The following block of code may be used to automatically register your

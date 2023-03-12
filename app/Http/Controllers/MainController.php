@@ -11,6 +11,7 @@ class MainController extends Controller
     }
 
     public function vue() {
-        return view('vue');
+        $component = 'slider-3-tabs';
+        return view('vue', compact('component'));
     }
 }
